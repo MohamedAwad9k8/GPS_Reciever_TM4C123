@@ -7,18 +7,18 @@ The Pins Connections:-
 		PF0 -> SW2 (DIGITAL INPUT)
 		PF4 -> SW1 (DIGITAL INPUT)
 	LED:
-    PF1 -> RED LED (DIGITAL OUTPUT)
+    		PF1 -> RED LED (DIGITAL OUTPUT)
 	GPS:
-    PE0 -> U7Rx // We only need RX to Recieve
+    		PE0 -> U7Rx // We only need RX to Recieve
 	LCD:
-    PC5 -> Enable (EN) 
+    		PC5 -> Enable (EN) 
 		PC6 -> Read/Write (R/W)
-    PC7 -> Register Select (RS) 
-    PB0 -> DB0 
-    PB1 -> DB1 
-    PB2 -> DB2 
-    PB3 -> DB3 
-    PB4 -> DB4 
-    PB5 -> DB5 
-    PB6 -> DB6 
-    PB7 -> DB7 
+	        PC7 -> Register Select (RS) 
+	        PB0 -> DB0 
+	        PB1 -> DB1 
+	        PB2 -> DB2 
+	        PB3 -> DB3 
+	        PB4 -> DB4 
+	        PB5 -> DB5 
+	        PB6 -> DB6 
+	        PB7 -> DB7 
