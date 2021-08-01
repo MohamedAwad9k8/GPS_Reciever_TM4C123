@@ -22,3 +22,6 @@ The Pins Connections:-
     PB5 -> DB5 
     PB6 -> DB6 
     PB7 -> DB7 
+
+A video showing the GPS Reciver in action, note the value it reads is due to the little in-accuracy of the GPS Reciver itself
+https://youtu.be/gPN5LQA0KIY
